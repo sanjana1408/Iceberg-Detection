@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May 18 14:57:13 2020
-
-@author: Dindi Divya
-"""
-
 import numpy as np
 import os
 from keras.models import load_model
